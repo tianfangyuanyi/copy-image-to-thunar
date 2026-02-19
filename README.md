@@ -26,7 +26,7 @@ Choose one from two:
 
 ### 1. Create the script
 
-Save the following script as `~/.local/bin/thunar-paste-image` and make it executable:
+Download the script (thunar-paste-image) and move it to ~/.local/bin or save the following script as `~/.local/bin/thunar-paste-image` and make it executable:
 
 ```bash
 #!/bin/bash
